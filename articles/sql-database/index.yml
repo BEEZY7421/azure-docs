@@ -1,12 +1,4 @@
-### YamlMime:Landing
-
-title: Azure SQL Database documentation
-summary: Azure SQL Database is a relational database-as-a-service (DBaaS) based on the latest stable version of Microsoft SQL Server.
-
-metadata:
-  title: Documentation
-  description: Find documentation about Azure SQL Database, a relational database-as-a-service (DBaaS) based on the latest stable version of Microsoft SQL Server.
-  services: sql-database
+##Ydatabase
   ms.service: sql-database
   ms.subservice: service
   ms.tgt_pltfrm: na
@@ -146,24 +138,3 @@ landingContent:
   # Card
   - title: Business continuity (BCDR)
     linkLists:
-      - linkListType: concept
-        links:
-          - text: Business continuity
-            url: sql-database-business-continuity.md
-          - text: High availability
-            url: sql-database-high-availability.md
-          - text: Database backups
-            url: sql-database-automated-backups.md
-
-
-  # Card 
-  - title: API reference
-    linkLists:
-      - linkListType: reference
-        links:
-          - text: Azure CLI
-            url: https://docs.microsoft.com/cli/azure/sql
-          - text: PowerShell
-            url: https://docs.microsoft.com/powershell/module/az.sql
-          - text: REST API
-            url: https://docs.microsoft.com/rest/api/sql/
